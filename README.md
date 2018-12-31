@@ -84,8 +84,8 @@
 
 ## Mail
 
-- [Mailspring](https://getmailspring.com/) - Mailspring is built with open web technologies, it has a really modern and slick user interface.
 - [Hiri](https://www.hiri.com/) - Hiri is an email client specifically created for Microsoft and Exchange email services.
+- [Mailspring](https://getmailspring.com/) - Mailspring is built with open web technologies, it has a really modern and slick user interface.
 - [Thunderbird](https://www.thunderbird.net) - Thunderbird is one of the most popular and oldest open-sourced email client from Mozilla Foundation.
 
 ## Music
@@ -95,6 +95,13 @@
 ## Online Storage
 
 ## Terminal
+
+- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
+- [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
+- [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
+- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
+- [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
+- [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 
 ## Text Editors
 
