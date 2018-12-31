@@ -50,13 +50,15 @@
 
 ## Brower
 
+- [Brave](https://brave.com/) - The primary goal of Brave is to concentrate on blocking trackers.
+- [Chrome](https://www.google.com/chrome/) - Chrome is a powerful web browser with the modern features.
+- [Chromium](http://www.chromium.org/) - Chromium is the open source code that Google Chrome comes from.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Firefox is among the most popular browsers for Linux.
-- [Google Chrome](https://www.google.com/chrome/) - Chrome is another powerful web browser for Linux.
 - [Midori](https://www.midori-browser.org/) - Midori is among the most popular web browsers for Linux users.
 - [Opera](https://www.opera.com) - Opera is an extremely competent browser with a lot of decent features.
 - [Tor Brower](https://www.torproject.org/) - Tor is an excellent web browser for privacy. 
 - [Vivaldi](https://vivaldi.com) - Vivaldi provide the fastest browsing experience.
-- [Brave](https://brave.com/) - The primary goal of Brave is to concentrate on blocking trackers.
+- [Yandex](https://browser.yandex.com/) - Fast and convenient browser.
 
 ## Chat
 
