@@ -84,6 +84,10 @@
 
 ## Mail
 
+- [Mailspring](https://getmailspring.com/) - Mailspring is built with open web technologies, it has a really modern and slick user interface.
+- [Hiri](https://www.hiri.com/) - Hiri is an email client specifically created for Microsoft and Exchange email services.
+- [Thunderbird](https://www.thunderbird.net) - Thunderbird is one of the most popular and oldest open-sourced email client from Mozilla Foundation.
+
 ## Music
 
 ## Notes
