@@ -105,6 +105,13 @@
 
 ## Text Editors
 
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+- [BlueFish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers.
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
+- [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
+- [Vim](https://vim8.org/) - Vim - the ubiquitous text editor.
+- [Visual Studio Code](https://code.visualstudio.com/) - Free. Open source. Runs everywhere.
+
 ## Utilities
 
 ## Video
