@@ -29,10 +29,10 @@
 - [Database](#database)
 - [Developer Tools](#developer-tools)
 - [Documents](#documents)
-- [Downloader](#downloader)
+- [Downloads](#downloads)
 - [Games](#games)
 - [Graphics](#graphics)
-- [IDEs](#ides)
+- [IDE](#ide)
 - [Images](#images)
 - [Keyboard](#keyboard)
 - [Mail](#mail)
@@ -56,7 +56,7 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Firefox is among the most popular browsers for Linux.
 - [Midori](https://www.midori-browser.org/) - Midori is among the most popular web browsers for Linux users.
 - [Opera](https://www.opera.com) - Opera is an extremely competent browser with a lot of decent features.
-- [Tor Brower](https://www.torproject.org/) - Tor is an excellent web browser for privacy. 
+- [Tor](https://www.torproject.org/) - Tor is an excellent web browser for privacy. 
 - [Vivaldi](https://vivaldi.com) - Vivaldi provide the fastest browsing experience.
 - [Yandex](https://browser.yandex.com/) - Fast and convenient browser.
 
@@ -70,13 +70,13 @@
 
 ## Documents
 
-## Downloader
+## Downloads
 
 ## Games
 
 ## Graphics
 
-## IDEs
+## IDE
 
 ## Images
 
@@ -109,9 +109,15 @@
 - [BlueFish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers.
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
-- [Vim](https://vim8.org/) - Vim - the ubiquitous text editor.
+- [Vim](https://vim8.org/) - The ubiquitous text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Free. Open source. Runs everywhere.
 
 ## Utilities
 
 ## Video
+
+- [Kodi](https://kodi.tv/) - Kodi is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium.
+- [Miro](http://www.getmiro.com/) - The beautiful, open-source music and video player that lets you break free!
+- [mpv](https://mpv.io/) - a free, open source, and cross-platform media player.
+- [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs. Play all audio and video formats. Now with support for Chromecast!
+- [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
