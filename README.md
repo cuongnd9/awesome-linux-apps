@@ -72,6 +72,14 @@
 
 ## Graphics
 
+- [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor. 👏
+- [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. It's free and open source. 👏
+- [Karbon](https://www.calligra.org/karbon/) - Karbon is a vector drawing application with an user interface that is easy to use, highly customizable and extensible. 👏
+- [Krita](https://krita.org/) - Krita is an open source professional software and free digital painting. 👏
+- [MyPaint](http://mypaint.org/) - MyPaint focuses on drawing sketches. 👏
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing. 👏
+- [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. 👏
+
 ## IDE
 
 ## Images
