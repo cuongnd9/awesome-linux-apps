@@ -23,8 +23,8 @@
 - [Customization](#customization)
 - [Database](#database)
 - [Developer Tools](#developer-tools)
-- [Documents](#documents)
-- [Downloads](#downloads)
+- [Document](#document)
+- [Download](#download)
 - [Games](#games)
 - [Graphics](#graphics)
 - [IDE](#ide)
@@ -33,6 +33,7 @@
 - [Mail](#mail)
 - [Music](#music)
 - [Notes](#notes)
+- [Office](#office)
 - [Online Storage](#online-storage)
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
@@ -63,9 +64,9 @@
 
 ## Developer Tools
 
-## Documents
+## Document
 
-## Downloads
+## Download
 
 ## Games
 
@@ -93,6 +94,11 @@
 - [Tagspaces](https://www.tagspaces.org/) -TagSpaces is an offline, open source, data manager. 
 It helps you to browse and organize your files.
 - [Turtl](https://turtlapp.com/) - The secure, collaborative notebook.
+
+## Office
+
+- [LibreOffice](https://www.libreoffice.org/) - LibreOffice is the most favorite and well known best free office suite in the Linux community. 👏
+- [WPS Office ](http://wps-community.org/) - WPS Office is one of the world’s best free office suite available for Linux community. It’s beautiful, faster, lightweight and offers modern slick user interface. 👏
 
 ## Online Storage
 
