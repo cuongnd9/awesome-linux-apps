@@ -7,7 +7,8 @@
 
 <h4 align="center">
   🚀 A list of awesome applications for 🐧 Linux distributions.
-</h4>  
+</h4>
+<p align="center">
   <a href="https://github.com/jade28/awesome-linux-apps">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/>
   </a>
@@ -85,6 +86,13 @@
 ## Music
 
 ## Notes
+
+- [Boostnote](https://boostnote.io/) - A markdown editor for developers on Mac, Windows and Linux.
+- [Laverna](https://laverna.cc/) - Keep your notes private.
+- [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+- [Tagspaces](https://www.tagspaces.org/) -TagSpaces is an offline, open source, data manager. 
+It helps you to browse and organize your files.
+- [Turtl](https://turtlapp.com/) - The secure, collaborative notebook.
 
 ## Online Storage
 
