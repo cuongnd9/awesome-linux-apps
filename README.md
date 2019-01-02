@@ -7,13 +7,7 @@
 
 <h4 align="center">
   🚀 A list of awesome applications for 🐧 Linux distributions.
-</h4>
-
-<p align="center">  
-   <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://awesome.re/badge.svg"/>
-  </a>
-  
+</h4>  
   <a href="https://github.com/jade28/awesome-linux-apps">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/>
   </a>
@@ -50,15 +44,15 @@
 
 ## Brower
 
-- [Brave](https://brave.com/) - The primary goal of Brave is to concentrate on blocking trackers.
-- [Chrome](https://www.google.com/chrome/) - Chrome is a powerful web browser with the modern features.
-- [Chromium](http://www.chromium.org/) - Chromium is the open source code that Google Chrome comes from.
-- [Firefox](https://www.mozilla.org/en-US/firefox/) - Firefox is among the most popular browsers for Linux.
-- [Midori](https://www.midori-browser.org/) - Midori is among the most popular web browsers for Linux users.
-- [Opera](https://www.opera.com) - Opera is an extremely competent browser with a lot of decent features.
-- [Tor](https://www.torproject.org/) - Tor is an excellent web browser for privacy. 
-- [Vivaldi](https://vivaldi.com) - Vivaldi provide the fastest browsing experience.
-- [Yandex](https://browser.yandex.com/) - Fast and convenient browser.
+- [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
+- [Chrome](https://www.google.com/chrome/) - A fast, simple and secure browser for all devices.
+- [Chromium](http://www.chromium.org/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - The new, fast browser for Mac, PC and Linux.
+- [Midori](https://www.midori-browser.org/) - a lightweight, fast, and free web browser.
+- [Opera](https://www.opera.com) - Fast, secure, easy-to-use browser.
+- [Tor](https://www.torproject.org/projects/torbrowser.html.en) - Tor Browser contains everything you need to safely browse the Internet.
+- [Vivaldi](https://vivaldi.com) - The browser that gives you control.
+- [Yandex](https://browser.yandex.com/) - A fast and secure browser.
 
 ## Chat
 
@@ -84,9 +78,9 @@
 
 ## Mail
 
-- [Hiri](https://www.hiri.com/) - Hiri is an email client specifically created for Microsoft and Exchange email services.
-- [Mailspring](https://getmailspring.com/) - Mailspring is built with open web technologies, it has a really modern and slick user interface.
-- [Thunderbird](https://www.thunderbird.net) - Thunderbird is one of the most popular and oldest open-sourced email client from Mozilla Foundation.
+- [Hiri](https://www.hiri.com/) - A linux email client for Exchange and Office 365.
+- [Mailspring](https://getmailspring.com/) - The best mail client for Mac, Linux, and Windows.
+- [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application, easy to install and customize; Comes with many great features!
 
 ## Music
 
@@ -96,9 +90,9 @@
 
 ## Terminal
 
-- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
-- [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
-- [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
+- [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
@@ -106,7 +100,7 @@
 ## Text Editors
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
-- [BlueFish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers.
+- [BlueFish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
 - [Vim](https://vim8.org/) - The ubiquitous text editor.
