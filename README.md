@@ -94,6 +94,11 @@
 
 ## Music
 
+- [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface. 👏
+- [Audacious](https://audacious-media-player.org/) - Audacious is an open source media player that’s widely popular among audiophiles. 👏
+- [Clementine](https://www.clementine-player.org/) - Clementine is a cross-platform, open source music player that’s a popular choice of Linux-using music enthusiasts. 👏
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Rhythmbox is a music playing application for GNOME. 👏
+
 ## Notes
 
 - [Boostnote](https://boostnote.io/) - A markdown editor for developers on Mac, Windows and Linux. 👏
