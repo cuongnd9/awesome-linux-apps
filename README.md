@@ -20,6 +20,7 @@
 - [Backup](#backup)
 - [Brower](#brower)
 - [Chat](#chat)
+- [Cloud Storage](#cloud-storage)
 - [Customization](#customization)
 - [Database](#database)
 - [Developer Tools](#developer-tools)
@@ -34,7 +35,6 @@
 - [Music](#music)
 - [Notes](#notes)
 - [Office](#office)
-- [Online Storage](#online-storage)
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
 - [Utilities](#utilities)
@@ -57,6 +57,13 @@
 - [Yandex](https://browser.yandex.com/) - A fast and secure browser. 👏
 
 ## Chat
+
+## Cloud Storage
+
+- [Dropbox](https://www.dropbox.com) - One of the best cloud services out there. A sleek web interface and an excellent desktop client make it the best choice for Linux users.
+- [Google Drive](https://drive.google.com) - Google Drive is one of the best cloud services for Linux users.
+- [NextCloud](https://nextcloud.com) - Nextcloud is a free and open source cloud storage and collaboration platform that you can install on your own server.
+- [pCloud](https://www.pcloud.com) - pCloud is a European offering from Switzerland.
 
 ## Customization
 
@@ -112,8 +119,6 @@ It helps you to browse and organize your files.
 
 - [LibreOffice](https://www.libreoffice.org/) - LibreOffice is the most favorite and well known best free office suite in the Linux community. 👏
 - [WPS Office ](http://wps-community.org/) - WPS Office is one of the world’s best free office suite available for Linux community. It’s beautiful, faster, lightweight and offers modern slick user interface. 👏
-
-## Online Storage
 
 ## Terminal
 
