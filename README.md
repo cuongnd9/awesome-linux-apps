@@ -47,6 +47,13 @@
 
 ## Backup
 
+- [attic](https://github.com/jborg/attic) - Deduplicating backup program. 👏
+- [Back In Time](https://github.com/bit-team/backintime) - A simple backup tool for Linux. 👏
+- [BackupPC](https://github.com/backuppc/backuppc) - A high-performance, enterprise-grade system for backing up to a server's disk. 👏
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication 👏
+- [Déjà Dup](https://launchpad.net/deja-dup) - Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend. 👏
+- [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm. 👏
+
 ## Brower
 
 - [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker. 👏
