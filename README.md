@@ -27,9 +27,8 @@
 - [Document](#document)
 - [Download](#download)
 - [Games](#games)
-- [Graphics](#graphics)
 - [IDE](#ide)
-- [Images](#images)
+- [Image Editors](#image-editors)
 - [Mail](#mail)
 - [Music](#music)
 - [Notes](#notes)
@@ -49,10 +48,12 @@
 
 - [attic](https://github.com/jborg/attic) - Deduplicating backup program. 👏
 - [Back In Time](https://github.com/bit-team/backintime) - A simple backup tool for Linux. 👏
+- [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems. 👏
 - [BackupPC](https://github.com/backuppc/backuppc) - A high-performance, enterprise-grade system for backing up to a server's disk. 👏
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication 👏
 - [Déjà Dup](https://launchpad.net/deja-dup) - Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend. 👏
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm. 👏
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
 
 ## Brower
 
@@ -87,7 +88,9 @@
 
 ## Games
 
-## Graphics
+## IDE
+
+## Image Editors
 
 - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor. 👏
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. It's free and open source. 👏
@@ -97,14 +100,11 @@
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing. 👏
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. 👏
 
-## IDE
-
-## Images
-
 ## Mail
 
 - [Hiri](https://www.hiri.com/) - A linux email client for Exchange and Office 365.
 - [Mailspring](https://getmailspring.com/) - The best mail client for Mac, Linux, and Windows.
+- [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application, easy to install and customize; Comes with many great features! 👏
 
 ## Music
@@ -112,6 +112,7 @@
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface. 👏
 - [Audacious](https://audacious-media-player.org/) - Audacious is an open source media player that’s widely popular among audiophiles. 👏
 - [Clementine](https://www.clementine-player.org/) - Clementine is a cross-platform, open source music player that’s a popular choice of Linux-using music enthusiasts. 👏
+- [cmus](https://cmus.github.io/) - a small, fast and powerful console music player for Unix-like operating systems. 👏
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Rhythmbox is a music playing application for GNOME. 👏
 
 ## Notes
