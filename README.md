@@ -69,6 +69,15 @@
 
 ## Chat
 
+- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. 👏
+- [Skype](https://www.skype.com) - The most famous instant messaging application for any platform.
+- [Telegram](https://telegram.org) - A WhatsApp alternative with a blue theme color and a bot API. 👏
+- [Slack](https://slack.com) - The messaging app almost every startup company in the world uses because it is ideal for team communication and collaboration. 👏
+- [Tox](https://tox.chat/) - A peer-to-peer instant messaging app with end-to-end encryption and no central server. 👏
+- [Viber](https://www.viber.com) - A VoIP application and Skype contender – it offers text, audio, gif, and video services as well as Unity integration.
+- [WICKR](https://wickr.com/) - Famous for its automatic self-destructing message security feature. Combined with its military grade encryption.
+- [Wire](https://wire.com) - The best instant messaging app available for Linux. 👏
+
 ## Cloud Storage
 
 - [Dropbox](https://www.dropbox.com) - One of the best cloud services out there. A sleek web interface and an excellent desktop client make it the best choice for Linux users.
