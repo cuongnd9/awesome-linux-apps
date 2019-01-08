@@ -30,17 +30,20 @@
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [Images](#images)
-- [Keyboard](#keyboard)
 - [Mail](#mail)
 - [Music](#music)
 - [Notes](#notes)
 - [Office](#office)
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
-- [Utilities](#utilities)
 - [Video](#video)
 
 ## Audio
+
+- [Ardour](https://ardour.org/) - Ardour is a free, open source audio workstation for Mac, Linux, and Windows. 👏
+- [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software. 👏
+- [Frinika](http://www.frinika.com/) - Frinika is a free, complete music workstation software for Linux, Windows, Mac OSX and other operating systems running Java. 👏
+- [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor. 👏
 
 ## Backup
 
@@ -91,8 +94,6 @@
 
 ## Images
 
-## Keyboard
-
 ## Mail
 
 - [Hiri](https://www.hiri.com/) - A linux email client for Exchange and Office 365.
@@ -137,8 +138,6 @@ It helps you to browse and organize your files.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
 - [Vim](https://vim8.org/) - The ubiquitous text editor. 👏
 - [Visual Studio Code](https://code.visualstudio.com/) - Free. Open source. Runs everywhere. 👏
-
-## Utilities
 
 ## Video
 
