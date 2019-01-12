@@ -44,7 +44,7 @@
 - [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux. 👏
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems. 👏
 - [BackupPC](https://github.com/backuppc/backuppc) - High-performance, enterprise-grade system for backing up to a server's disk. 👏
-- [bup](https://github.com/bup/bup) - Efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication 👏
+- [bup](https://github.com/bup/bup) - Efficient backup system, provide fast incremental saves and global deduplication 👏
 - [Déjà Dup](https://launchpad.net/deja-dup) - Simple backup tool.
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
@@ -53,7 +53,7 @@
 
 - [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
 - [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser for all devices.
-- [Chromium](https://github.com/chromium/chromium) - Open source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. 👏
+- [Chromium](https://github.com/chromium/chromium) - Open source browser project that aims to build a safer, faster and more stable way for all Internet users. 👏
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - The new, fast browser for Mac, PC and Linux.
 - [Midori](https://www.midori-browser.org/) - Lightweight, fast, and free web browser.
 - [Opera](https://www.opera.com) - Fast, secure, easy-to-use browser.
@@ -66,7 +66,7 @@
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
 - [Skype](https://www.skype.com) - The most famous instant messaging application for any platform.
 - [Telegram](https://telegram.org) - WhatsApp alternative with a blue theme color and a bot API.
-- [Slack](https://slack.com) - The messaging app almost every startup company in the world uses because it is ideal for team communication and collaboration.
+- [Slack](https://slack.com) - The messaging app almost every startup company in the world uses.
 - [Tox](https://tox.chat/) - peer-to-peer instant messaging app with end-to-end encryption and no central server. 👏
 - [Viber](https://www.viber.com) - Offer text, audio, gif, and video services as well as Unity integration.
 - [WICKR](https://wickr.com/) - Famous for its automatic self-destructing message security feature.
@@ -92,7 +92,7 @@
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
 - [Karbon](https://www.calligra.org/karbon/) - Vector drawing application that is easy to use, highly customizable and extensible.
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
-- [MyPaint](https://github.com/mypaint/mypaint) - Simple drawing and painting program that works well with Wacom-style graphics tablets. 👏
+- [MyPaint](https://github.com/mypaint/mypaint) - Simple drawing and painting program. 👏
 - [Pinta](https://github.com/PintaProject/Pinta) - Free, open source program for drawing and image editing. 👏
 - [Vectr](https://vectr.com/) - Free graphics software used to create vector graphics easily and intuitively.
 
