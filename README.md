@@ -9,7 +9,7 @@
   🚀 A list of awesome applications for 🐧 Linux distributions.
 </h4>
 <p align="center">
-  <a href="https://github.com/jade28/awesome-linux-apps">
+  <a href="https://github.com/jade28/awesome-linux-apps/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/>
   </a>
 </p>  
