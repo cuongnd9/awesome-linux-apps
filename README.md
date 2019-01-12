@@ -21,13 +21,7 @@
 - [Brower](#brower)
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
-- [Customization](#customization)
 - [Database](#database)
-- [Developer Tools](#developer-tools)
-- [Document](#document)
-- [Download](#download)
-- [Games](#games)
-- [IDE](#ide)
 - [Image Editors](#image-editors)
 - [Mail](#mail)
 - [Music](#music)
@@ -85,19 +79,12 @@
 - [NextCloud](https://nextcloud.com) - Nextcloud is a free and open source cloud storage and collaboration platform that you can install on your own server.
 - [pCloud](https://www.pcloud.com) - pCloud is a European offering from Switzerland.
 
-## Customization
-
 ## Database
 
-## Developer Tools
-
-## Document
-
-## Download
-
-## Games
-
-## IDE
+- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite. 👏
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
+- [Postbird](https://github.com/Paxa/postbird) - A cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
+- [Robo 3T](https://robomongo.org/) - The free lightweight GUI for MongoDB enthusiasts. 👏
 
 ## Image Editors
 
