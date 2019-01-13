@@ -130,6 +130,7 @@
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
 - [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix. 👏
+- [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator for Linux. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
 ## Text Editors
