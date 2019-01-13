@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Resource Name](link) - Short description.`
-- Free and open source use the following format: `[Resource Name](link) - Short description. 👏`
+- `Open source` use the following format: `[Resource Name](link) - Short description. 👏`
 - Don't repeat the resource name in the description.
 - Link additions should be added in alphabetical order to the relevant category.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
