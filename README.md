@@ -138,6 +138,7 @@
 - [Atom](https://github.com/atom/atom) - Hackable text editor for the 21st Century. 👏
 - [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and webdevelopers.
 - [Brackets](https://github.com/adobe/brackets) - Modern, open source text editor that understands web design. 👏
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. 👏
 - [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 - [Vim](https://github.com/vim/vim) - The ubiquitous text editor. 👏
