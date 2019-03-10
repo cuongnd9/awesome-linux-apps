@@ -12,9 +12,6 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg"/>
   </a>
-  <a href="https://github.com/cuongw/awesome-linux-apps/blob/master/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/>
-  </a>
 </p>  
 
 ## Contents
@@ -47,7 +44,7 @@
 - [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux. 👏
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems. 👏
 - [BackupPC](https://github.com/backuppc/backuppc) - High-performance, enterprise-grade system for backing up to a server's disk. 👏
-- [bup](https://github.com/bup/bup) - Efficient backup system, provide fast incremental saves and global deduplication 👏
+- [bup](https://github.com/bup/bup) - Efficient backup system, provide fast incremental saves and global deduplication. 👏
 - [Déjà Dup](https://launchpad.net/deja-dup) - Simple backup tool.
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
@@ -70,7 +67,7 @@
 - [Skype](https://www.skype.com) - The most famous instant messaging application for any platform.
 - [Telegram](https://telegram.org) - WhatsApp alternative with a blue theme color and a bot API.
 - [Slack](https://slack.com) - The messaging app almost every startup company in the world uses.
-- [Tox](https://tox.chat/) - peer-to-peer instant messaging app with end-to-end encryption and no central server. 👏
+- [Tox](https://tox.chat/) - Peer to peer instant messaging app with end-to-end encryption and no central server. 👏
 - [Viber](https://www.viber.com) - Offer text, audio, gif, and video services as well as Unity integration.
 - [WICKR](https://wickr.com/) - Famous for its automatic self-destructing message security feature.
 - [Wire](https://wire.com) - The best instant messaging app available for Linux.
