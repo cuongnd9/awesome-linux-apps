@@ -9,6 +9,9 @@
   🚀 A list of awesome applications for 🐧 Linux distributions.
 </h4>
 <p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg"/>
+  </a>
   <a href="https://github.com/cuongw/awesome-linux-apps/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/>
   </a>
