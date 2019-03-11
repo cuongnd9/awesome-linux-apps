@@ -24,6 +24,7 @@
 - [Database](#database)
 - [Image Editors](#image-editors)
 - [Mail](#mail)
+- [Markdown Editors](#markdown-editors)
 - [Music](#music)
 - [Notes](#notes)
 - [Office](#office)
@@ -104,6 +105,15 @@
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
 
+## Markdown Editors
+
+- [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
+- [Haroopad](https://github.com/rhiokim/haroopad) - The Next Document processor based on Markdown. 👏
+- [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose markdown editor. 👏
+- [Remarkable](https://github.com/jamiemcg/remarkable) - Powerful markdown editor available for Linux. 👏
+- [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
+- [Typora](https://typora.io/) - Markdown editor, markdown reader.
+
 ## Music
 
 - [Amarok](https://github.com/KDE/amarok) - Powerful music player for Linux with an intuitive interface. 👏
@@ -137,7 +147,7 @@
 ## Text Editors
 
 - [Atom](https://github.com/atom/atom) - Hackable text editor for the 21st Century. 👏
-- [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and webdevelopers.
+- [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and web developers.
 - [Brackets](https://github.com/adobe/brackets) - Modern, open source text editor that understands web design. 👏
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. 👏
 - [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
