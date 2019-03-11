@@ -30,6 +30,7 @@
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
 - [Video](#video)
+- [Virtual Machines](#virtual-machines)
 
 ## Audio
 
@@ -151,6 +152,11 @@
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player. 👏
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
 - [VLC](https://github.com/videolan/vlc) - Free and open source cross-platform multimedia player and framework. 👏
+
+## Virtual Machines
+
+- [QEMU](https://github.com/qemu/qemu) -Generic and open source machine emulator and virtualizer. 👏
+- [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
 
 **[⬆ back to top](#contents)**
 
