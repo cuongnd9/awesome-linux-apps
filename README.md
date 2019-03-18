@@ -20,6 +20,7 @@
 - [Office](#office)
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
+- [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
 
@@ -167,6 +168,19 @@
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 - [Vim](https://github.com/vim/vim) - The ubiquitous text editor. 👏
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source and runs everywhere. 👏
+
+## Version Control
+
+- [Aurees](https://aurees.com/) - Easy, fast and free.
+- [CodeReview](https://github.com/FabriceSalvaire/CodeReview) - Git GUI tool to perform code review. 👏
+- [GitAhead](https://github.com/gitahead/gitahead) - Graphical Git client designed to help you understand and manage your source code history. 👏
+- [Git Cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI. 👏
+- [Git Extensions](https://github.com/gitextensions/gitextensions) - Standalone UI tool for managing git repositories. 👏
+- [Git Horizon](https://www.cycligent.com/git-tool) - Cross-platform, Actionable, Graphical Git Dashboard.
+- [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Linux.
+- [SmartGit](https://www.syntevo.com/smartgit/) - Graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.
+- [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime.
+- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. 👏
 
 ## Video
 
