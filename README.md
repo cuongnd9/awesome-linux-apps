@@ -11,6 +11,7 @@
 - [Cloud Storage](#cloud-storage)
 - [Database](#database)
 - [Game](#game)
+- [IDEs](#ides)
 - [Image Editors](#image-editors)
 - [Mail](#mail)
 - [Markdown Editors](#markdown-editors)
@@ -86,6 +87,19 @@
 - [PlayOnLinux](https://www.playonlinux.com) - Support install Windows app and games on Linux. 👏
 - [Portable Linux Games](https://portablelinuxgames.org/) - Collection of a number of Linux games.
 - [Steam](https://store.steampowered.com/) - Platform to buy games.
+
+## IDEs
+
+- [Android Studio](https://developer.android.com/studio/index.html) - The fastest tools for building apps on every type of Android device.
+- [CLion](https://www.jetbrains.com/clion/) - Cross-platform IDE for C and C++.
+- [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool.
+- [Eclipse](https://www.eclipse.org/) - The Platform for Open Innovation and Collaboration.
+- [GoLand](https://www.jetbrains.com/go/) - Clever IDE to Go.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages.
+- [NetBeans](https://netbeans.org/) - Quickly and easily develop desktop, mobile, and web applications with Java and more.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE for Professional Developers.
+- [Rider](https://www.jetbrains.com/rider/) - Fast and powerful cross-platform .NET IDE.
+- [WebStorm](https://www.jetbrains.com/webstorm/) - The powerful IDE for modern JavaScript development.
 
 ## Image Editors
 
