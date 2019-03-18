@@ -1,7 +1,5 @@
 # Awesome Linux Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="logo.png" align="right" width="120">](https://github.com/cuongw)
-
 🚀 A list of awesome applications for 🐧 Linux distributions.
 
 ## Contents
