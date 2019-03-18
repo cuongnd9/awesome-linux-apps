@@ -1,24 +1,12 @@
-<h1 align="center">
-  <a href="https://github.com/cuongw/awesome-linux-apps">
-    <img alt="store-pattern" src="https://user-images.githubusercontent.com/34389409/50555555-b76c4d00-0d00-11e9-9c88-044c4ff10d6f.png" width="400">
-  </a>
-  <br>Awesome Linux Apps<br>
-</h1>
+# Awesome Linux Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<h4 align="center">
-  🚀 A list of awesome applications for 🐧 Linux distributions.
-</h4>
-<p align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg"/>
-  </a>
-</p>  
+🚀 A list of awesome applications for 🐧 Linux distributions.
 
 ## Contents
 
 - [Audio](#audio)
 - [Backup](#backup)
-- [Brower](#brower)
+- [Browser](#browser)
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
 - [Database](#database)
@@ -51,7 +39,7 @@
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
 
-### Brower
+### Browser
 
 - [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
 - [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser for all devices.
