@@ -133,7 +133,7 @@
 ## Office
 
 - [LibreOffice](https://www.libreoffice.org/) - Best free office suite in the Linux community. 👏
-- [WPS Office](http://wps-community.org/) - Beautiful, faster, lightweight and offers modern slick user interface.
+- [WPS Office](https://www.wps.com/en-US/office/linux/) - Beautiful, faster, lightweight and offers modern slick user interface.
 
 ## Terminal
 
@@ -165,7 +165,7 @@
 
 ## Virtual Machines
 
-- [QEMU](https://github.com/qemu/qemu) -Generic and open source machine emulator and virtualizer. 👏
+- [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
 
 **[⬆ back to top](#contents)**
