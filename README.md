@@ -10,6 +10,7 @@
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
 - [Database](#database)
+- [Game](#game)
 - [Image Editors](#image-editors)
 - [Mail](#mail)
 - [Markdown Editors](#markdown-editors)
@@ -21,14 +22,14 @@
 - [Video](#video)
 - [Virtual Machines](#virtual-machines)
 
-### Audio
+## Audio
 
 - [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for Mac, Linux, and Windows. 👏
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software. 👏
 - [Frinika](http://www.frinika.com/) - Free, complete music workstation software for Linux.
 - [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor.
 
-### Backup
+## Backup
 
 - [attic](https://github.com/jborg/attic) - Deduplicating backup program. 👏
 - [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux. 👏
@@ -39,7 +40,7 @@
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
 
-### Browser
+## Browser
 
 - [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
 - [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser for all devices.
@@ -51,7 +52,7 @@
 - [Vivaldi](https://vivaldi.com) - The browser that gives you control.
 - [Yandex](https://browser.yandex.com/) - Fast and secure browser.
 
-### Chat
+## Chat
 
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
 - [Skype](https://www.skype.com) - The most famous instant messaging application for any platform.
@@ -62,21 +63,31 @@
 - [WICKR](https://wickr.com/) - Famous for its automatic self-destructing message security feature.
 - [Wire](https://wire.com) - The best instant messaging app available for Linux.
 
-### Cloud Storage
+## Cloud Storage
 
 - [Dropbox](https://www.dropbox.com) - One of the best cloud services out there.
 - [Google Drive](https://drive.google.com) - One of the best cloud services for Linux users.
 - [NextCloud](https://nextcloud.com) - Free and open source cloud storage and collaboration platform.
 - [pCloud](https://www.pcloud.com) - European offering from Switzerland.
 
-### Database
+## Database
 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
 - [Postbird](https://github.com/Paxa/postbird) - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
 - [Robo 3T](https://robomongo.org/) - Free lightweight GUI for MongoDB enthusiasts.
 
-### Image Editors
+## Game
+
+- [GOG.com](https://www.gog.com/) - Web platform to donwload games.
+- [Humble](https://www.humblebundle.com/) - Platform to buy games bundles.
+- [itch.io](https://itch.io/games/platform-linux) - Platform to buy games.
+- [Lutris](https://lutris.net/) - Open Source gaming platform for Linux. 👏
+- [PlayOnLinux](https://www.playonlinux.com) - Support install Windows app and games on Linux. 👏
+- [Portable Linux Games](https://portablelinuxgames.org/) - Collection of a number of Linux games.
+- [Steam](https://store.steampowered.com/) - Platform to buy games.
+
+## Image Editors
 
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
@@ -86,14 +97,14 @@
 - [Pinta](https://github.com/PintaProject/Pinta) - Free, open source program for drawing and image editing. 👏
 - [Vectr](https://vectr.com/) - Free graphics software used to create vector graphics easily and intuitively.
 
-### Mail
+## Mail
 
 - [Hiri](https://www.hiri.com/) - Linux email client for Exchange and Office 365.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - The best mail client for Mac, Linux, and Windows. 👏
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
 
-### Markdown Editors
+## Markdown Editors
 
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
 - [Haroopad](https://github.com/rhiokim/haroopad) - The Next Document processor based on Markdown. 👏
@@ -102,7 +113,7 @@
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
 - [Typora](https://typora.io/) - Markdown editor, markdown reader.
 
-### Music
+## Music
 
 - [Amarok](https://github.com/KDE/amarok) - Powerful music player for Linux with an intuitive interface. 👏
 - [Audacious](https://github.com/jade28/awesome-linux-apps/edit/master/README.md) - Open source media player that’s widely popular among audiophiles. 👏
@@ -110,7 +121,7 @@
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. 👏
 - [Rhythmbox](https://github.com/GNOME/rhythmbox) - Music playing application for GNOME. 👏
 
-### Notes
+## Notes
 
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown editor for developers on Mac, Windows and Linux. 👏
 - [Laverna](https://github.com/Laverna/laverna) - Keep your notes private. 👏
@@ -118,12 +129,12 @@
 - [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source, data manager. 👏
 - [Turtl](https://github.com/turtl/desktop) - Secure, collaborative notebook. 👏
 
-### Office
+## Office
 
 - [LibreOffice](https://www.libreoffice.org/) - Best free office suite in the Linux community. 👏
 - [WPS Office](https://www.wps.com/en-US/office/linux/) - Beautiful, faster, lightweight and offers modern slick user interface.
 
-### Terminal
+## Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
@@ -132,7 +143,7 @@
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator for Linux. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
-### Text Editors
+## Text Editors
 
 - [Atom](https://github.com/atom/atom) - Hackable text editor for the 21st Century. 👏
 - [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and web developers.
@@ -143,7 +154,7 @@
 - [Vim](https://github.com/vim/vim) - The ubiquitous text editor. 👏
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source and runs everywhere. 👏
 
-### Video
+## Video
 
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
@@ -151,7 +162,7 @@
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
 - [VLC](https://github.com/videolan/vlc) - Free and open source cross-platform multimedia player and framework. 👏
 
-### Virtual Machines
+## Virtual Machines
 
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
