@@ -1,12 +1,14 @@
-# Awesome Linux Apps ![Awesome badge](https://awesome.re/badge.svg)
+# Awesome Linux Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🚀 A list of awesome applications for 🐧 Linux distributions.
+[<img src="logo.png" align="right" width="120">](https://github.com/cuongw)
+
+🚀 A list of awesome applications for 🐧 Linux distributions.
 
 ## Contents
 
 - [Audio](#audio)
 - [Backup](#backup)
-- [Brower](#brower)
+- [Browser](#browser)
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
 - [Database](#database)
@@ -39,7 +41,7 @@
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
 
-### Brower
+### Browser
 
 - [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
 - [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser for all devices.
