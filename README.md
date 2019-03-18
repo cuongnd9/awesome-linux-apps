@@ -9,7 +9,7 @@
 - [Browser](#browser)
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
-- [Database](#database)
+- [Databases](#databases)
 - [Game](#game)
 - [IDEs](#ides)
 - [Image Editors](#image-editors)
@@ -21,7 +21,7 @@
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
 - [Video](#video)
-- [Virtual Machines](#virtual-machines)
+- [Virtualization](#virtualization)
 
 ## Audio
 
@@ -71,7 +71,7 @@
 - [NextCloud](https://nextcloud.com) - Free and open source cloud storage and collaboration platform.
 - [pCloud](https://www.pcloud.com) - European offering from Switzerland.
 
-## Database
+## Databases
 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
@@ -176,10 +176,13 @@
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
 - [VLC](https://github.com/videolan/vlc) - Free and open source cross-platform multimedia player and framework. 👏
 
-## Virtual Machines
+## Virtualization
 
+- [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization.
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
+- [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and distributing development environments. 👏
 - [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
+- [VMWare Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
 
 **[⬆ back to top](#contents)**
 
