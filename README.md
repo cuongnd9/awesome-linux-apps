@@ -115,14 +115,13 @@
 ## Mail
 
 - [Hiri](https://www.hiri.com/) - Linux email client for Exchange and Office 365.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - The best mail client for Mac, Linux, and Windows. 👏
-- [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. 👏
+- [Mailspring](https://github.com/Foundry376/Mailspring) - Free, open source, beautiful and fast mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
 
 ## Markdown Editors
 
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
-- [Haroopad](https://github.com/rhiokim/haroopad) - The Next Document processor based on Markdown. 👏
+- [Haroopad](https://github.com/rhiokim/haroopad) - The next document processor based on markdown. 👏
 - [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose markdown editor. 👏
 - [Remarkable](https://github.com/jamiemcg/remarkable) - Powerful markdown editor available for Linux. 👏
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
@@ -154,7 +153,7 @@
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
-- [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix. 👏
+- [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator for Linux. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
@@ -175,13 +174,13 @@
 - [Aurees](https://aurees.com/) - Easy, fast and free.
 - [CodeReview](https://github.com/FabriceSalvaire/CodeReview) - Git GUI tool to perform code review. 👏
 - [GitAhead](https://github.com/gitahead/gitahead) - Graphical Git client designed to help you understand and manage your source code history. 👏
-- [Git Cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI. 👏
+- [Git Cola](https://github.com/git-cola/git-cola) - Powerful Git GUI with a slick and intuitive user interface. 👏
 - [Git Extensions](https://github.com/gitextensions/gitextensions) - Standalone UI tool for managing git repositories. 👏
 - [Git Horizon](https://www.cycligent.com/git-tool) - Cross-platform, Actionable, Graphical Git Dashboard.
-- [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Linux.
+- [GitKraken](https://www.gitkraken.com/) - The legendary Git GUI client for Linux.
 - [SmartGit](https://www.syntevo.com/smartgit/) - Graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.
-- [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime.
-- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. 👏
+- [Sublime Merge](https://www.sublimemerge.com/) - Powerful Git client from Sublime Text.
+- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use Git. 👏
 
 ## Video
 
@@ -196,7 +195,7 @@
 - [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization.
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and distributing development environments. 👏
-- [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
+- [VirtualBox](https://www.virtualbox.org/) - Free, powerful and brimming with terrific features.
 - [VMWare Fusion](https://www.vmware.com/) - Powerful and commercial VM developed by VMware.
 
 **[⬆ back to top](#contents)**
