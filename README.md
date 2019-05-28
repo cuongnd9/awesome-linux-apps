@@ -26,51 +26,51 @@
 
 ## Audio
 
-- [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for Mac, Linux, and Windows. 👏
-- [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software. 👏
-- [Frinika](http://www.frinika.com/) - Free, complete music workstation software for Linux.
+- [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for recording, editing and Mixing. 👏
+- [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform software for recording and editing sounds. 👏
+- [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
 - [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor.
 
 ## Backup
 
-- [attic](https://github.com/jborg/attic) - Deduplicating backup program. 👏
-- [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux. 👏
-- [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems. 👏
+- [attic](https://github.com/jborg/attic) - Efficient and secure way to backup data. 👏
+- [Back In Time](https://github.com/bit-team/backintime) - Simple backup solution. 👏
+- [backup](https://github.com/backup/backup) - Easy full stack backup operations on Linux. 👏
 - [BackupPC](https://github.com/backuppc/backuppc) - High-performance, enterprise-grade system for backing up to a server's disk. 👏
 - [bup](https://github.com/bup/bup) - Efficient backup system, provide fast incremental saves and global deduplication. 👏
-- [Déjà Dup](https://launchpad.net/deja-dup) - Simple backup tool.
+- [Déjà Dup](https://launchpad.net/deja-dup) - Simple backup tool, hides the complexity of backing up the right way and uses duplicity as the backend.
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
 
 ## Browser
 
-- [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
-- [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser for all devices.
-- [Chromium](https://github.com/chromium/chromium) - Open source browser project that aims to build a safer, faster and more stable way for all Internet users. 👏
-- [Firefox](https://www.mozilla.org/en-US/firefox/) - The new, fast browser for Mac, PC and Linux.
-- [Midori](https://www.midori-browser.org/) - Lightweight, fast, and free web browser.
-- [Opera](https://www.opera.com) - Fast, secure, easy-to-use browser.
-- [Tor](https://www.torproject.org/projects/torbrowser.html.en) - Contain everything you need to safely browse the Internet.
-- [Vivaldi](https://vivaldi.com) - The browser that gives you control.
+- [Brave](https://brave.com/) - Secure, fast and private web browser with Adblocker.
+- [Chrome](https://www.google.com/chrome/) - Fast, simple, efficient and secure browser by Google.
+- [Chromium](https://github.com/chromium/chromium) - Open source, safer, faster and more stable way for all Internet users. 👏
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - Fast, lightweight and powerfully private web browser.
+- [Midori](https://www.midori-browser.org/) - Lightweight, fast and free web browser.
+- [Opera](https://www.opera.com) - Fast, secure, easy-to-use and free VPN.
+- [Tor](https://www.torproject.org/) - Contain everything you need to safely browse the internet.
+- [Vivaldi](https://vivaldi.com) - Powerful, personal and flexible browser.
 - [Yandex](https://browser.yandex.com/) - Fast and secure browser.
 
 ## Chat
 
-- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
-- [Skype](https://www.skype.com) - The most famous instant messaging application for any platform.
-- [Telegram](https://telegram.org) - WhatsApp alternative with a blue theme color and a bot API.
-- [Slack](https://slack.com) - The messaging app almost every startup company in the world uses.
-- [Tox](https://tox.chat/) - Peer to peer instant messaging app with end-to-end encryption and no central server. 👏
-- [Viber](https://www.viber.com) - Offer text, audio, gif, and video services as well as Unity integration.
-- [WICKR](https://wickr.com/) - Famous for its automatic self-destructing message security feature.
-- [Wire](https://wire.com) - The best instant messaging app available for Linux.
+- [Discord](https://discordapp.com/) - Free voice and text chat for gamers.
+- [Skype](https://www.skype.com) - Famous instant messaging application for talking, chatting and collaborating.
+- [Telegram](https://telegram.org) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
+- [Slack](https://slack.com) - Awesome tool for team collaboration and communication.
+- [Tox](https://tox.chat/) - Free, simple, powerful and secure chat.
+- [Viber](https://www.viber.com) - Free and secure calls and messages to anyone, anywhere.
+- [WICKR](https://wickr.com/) - Secure for team collaboration space.
+- [Wire](https://wire.com) - Open source and secure collaboration platform. 👏
 
 ## Cloud Storage
 
-- [Dropbox](https://www.dropbox.com) - One of the best cloud services out there.
-- [Google Drive](https://drive.google.com) - One of the best cloud services for Linux users.
-- [NextCloud](https://nextcloud.com) - Free and open source cloud storage and collaboration platform.
-- [pCloud](https://www.pcloud.com) - European offering from Switzerland.
+- [Dropbox](https://www.dropbox.com) - The best cloud services on Linux.
+- [Google Drive](https://drive.google.com) - Powerful cloud services by Google.
+- [NextCloud](https://nextcloud.com) - Free, open source cloud storage and collaboration platform.
+- [pCloud](https://www.pcloud.com) - Secure online storage from Switzerland.
 
 ## Databases
 
@@ -126,7 +126,7 @@
 - [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose markdown editor. 👏
 - [Remarkable](https://github.com/jamiemcg/remarkable) - Powerful markdown editor available for Linux. 👏
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
-- [Typora](https://typora.io/) - Markdown editor, markdown reader.
+- [Typora](https://typora.io/) - Simple, beautiful, flexible and powerful markdown editor.
 
 ## Music
 
@@ -138,11 +138,11 @@
 
 ## Notes
 
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown editor for developers on Mac, Windows and Linux. 👏
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Intuitive and stylish note taking tool for developers. 👏
 - [Laverna](https://github.com/Laverna/laverna) - Keep your notes private. 👏
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Simplenote React app packaged in Electron. 👏
-- [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source, data manager. 👏
-- [Turtl](https://github.com/turtl/desktop) - Secure, collaborative notebook. 👏
+- [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source and data manager. 👏
+- [Turtl](https://github.com/turtl/desktop) - Secure and collaborative notebook. 👏
 
 ## Office
 
@@ -165,9 +165,10 @@
 - [Brackets](https://github.com/adobe/brackets) - Modern, open source text editor that understands web design. 👏
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. 👏
 - [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. 👏
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 - [Vim](https://github.com/vim/vim) - The ubiquitous text editor. 👏
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source and runs everywhere. 👏
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Version Control
 
@@ -196,7 +197,7 @@
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and distributing development environments. 👏
 - [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
-- [VMWare Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+- [VMWare Fusion](https://www.vmware.com/) - Powerful and commercial VM developed by VMware.
 
 **[⬆ back to top](#contents)**
 
