@@ -35,7 +35,7 @@
 
 - [attic](https://github.com/jborg/attic) - Efficient and secure way to backup data. 👏
 - [Back In Time](https://github.com/bit-team/backintime) - Simple backup solution. 👏
-- [backup](https://github.com/backup/backup) - Easy full stack backup operations on Linux. 👏
+- [backup](https://github.com/backup/backup) - Powerful backup tool distributed using RubyGems. 👏
 - [BackupPC](https://github.com/backuppc/backuppc) - High-performance, enterprise-grade system for backing up to a server's disk. 👏
 - [bup](https://github.com/bup/bup) - Efficient backup system, provide fast incremental saves and global deduplication. 👏
 - [Déjà Dup](https://launchpad.net/deja-dup) - Simple backup tool, hides the complexity of backing up the right way and uses duplicity as the backend.
@@ -94,8 +94,8 @@
 - [Android Studio](https://developer.android.com/studio/index.html) - The fastest tools for building apps on every type of Android device.
 - [CLion](https://www.jetbrains.com/clion/) - Cross-platform IDE for C and C++.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool.
-- [Eclipse](https://www.eclipse.org/) - The Platform for Open Innovation and Collaboration.
-- [GoLand](https://www.jetbrains.com/go/) - Clever IDE to Go.
+- [Eclipse](https://www.eclipse.org/) - Free and open source and is written by Java and plugin architecture allows Eclipse to be extended in other languages.
+- [GoLand](https://www.jetbrains.com/go/) - Cross platform IDE built specially for Go developers.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages.
 - [NetBeans](https://netbeans.org/) - Quickly and easily develop desktop, mobile, and web applications with Java and more.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE for Professional Developers.
@@ -121,17 +121,17 @@
 ## Markdown Editors
 
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
-- [Haroopad](https://github.com/rhiokim/haroopad) - The next document processor based on markdown. 👏
+- [Haroopad](https://github.com/rhiokim/haroopad) - The next document processor based on Markdown. 👏
 - [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose markdown editor. 👏
-- [Remarkable](https://github.com/jamiemcg/remarkable) - Powerful markdown editor available for Linux. 👏
+- [Remarkable](https://github.com/jamiemcg/remarkable) - Open source, lightweight and powerful markdown editor. 👏
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
-- [Typora](https://typora.io/) - Simple, beautiful, flexible and powerful markdown editor.
+- [Typora](https://typora.io) - Simple, beautiful, flexible and powerful markdown editor.
 
 ## Music
 
 - [Amarok](https://github.com/KDE/amarok) - Powerful music player for Linux with an intuitive interface. 👏
-- [Audacious](https://github.com/jade28/awesome-linux-apps/edit/master/README.md) - Open source media player that’s widely popular among audiophiles. 👏
-- [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform, open source music player that’s a popular choice of Linux-using music enthusiasts. 👏
+- [Audacious](https://audacious-media-player.org/) - Opensource audio player that is low resource and has a minimal feature interface. 👏
+- [Clementine](https://github.com/clementine-player/Clementine) - Cross platform music player and library organizer forked from Amarok 1.4. 👏
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. 👏
 - [Rhythmbox](https://github.com/GNOME/rhythmbox) - Music playing application for GNOME. 👏
 
@@ -153,8 +153,8 @@
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
-- [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux. 👏
-- [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator for Linux. 👏
+- [Tilda](https://github.com/lanoxx/tilda) - Highly configurable, easy to configure the hotkeys and change the appearance. 👏
+- [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
 ## Text Editors
@@ -166,7 +166,7 @@
 - [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
 - [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. 👏
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
-- [Vim](https://github.com/vim/vim) - The ubiquitous text editor. 👏
+- [Vim](https://github.com/vim/vim) - Highly configurable text editor for efficiently creating and changing any kind of text. 👏
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Version Control
@@ -177,10 +177,10 @@
 - [Git Cola](https://github.com/git-cola/git-cola) - Powerful Git GUI with a slick and intuitive user interface. 👏
 - [Git Extensions](https://github.com/gitextensions/gitextensions) - Standalone UI tool for managing git repositories. 👏
 - [Git Horizon](https://www.cycligent.com/git-tool) - Cross-platform, Actionable, Graphical Git Dashboard.
-- [GitKraken](https://www.gitkraken.com/) - The legendary Git GUI client for Linux.
+- [GitKraken](https://www.gitkraken.com/) - Git client with efficiency, elegance and reliability.
 - [SmartGit](https://www.syntevo.com/smartgit/) - Graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.
-- [Sublime Merge](https://www.sublimemerge.com/) - Powerful Git client from Sublime Text.
-- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use Git. 👏
+- [Sublime Merge](https://www.sublimemerge.com/) - Powerful Git client from the creators of Sublime Text.
+- [ungit](https://github.com/FredrikNoren/ungit) - Friendly and web-based interface. 👏
 
 ## Video
 
@@ -195,8 +195,8 @@
 - [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization.
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and distributing development environments. 👏
-- [VirtualBox](https://www.virtualbox.org/) - Free, powerful and brimming with terrific features.
-- [VMWare Fusion](https://www.vmware.com/) - Powerful and commercial VM developed by VMware.
+- [Virtual Box](https://www.virtualbox.org/) - Powerful x86 and AMD64/Intel64 virtualization product.
+- [VMWare Fusion](https://www.vmware.com/) - Fast, reliable and flexible virtualization.
 
 **[⬆ back to top](#contents)**
 
