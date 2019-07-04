@@ -26,51 +26,51 @@
 
 ## Audio
 
-- [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for Mac, Linux, and Windows. 👏
-- [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software. 👏
-- [Frinika](http://www.frinika.com/) - Free, complete music workstation software for Linux.
+- [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for recording, editing and Mixing. 👏
+- [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform software for recording and editing sounds. 👏
+- [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
 - [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor.
 
 ## Backup
 
-- [attic](https://github.com/jborg/attic) - Deduplicating backup program. 👏
-- [Back In Time](https://github.com/bit-team/backintime) - Simple backup tool for Linux. 👏
-- [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems. 👏
+- [attic](https://github.com/jborg/attic) - Efficient and secure way to backup data. 👏
+- [Back In Time](https://github.com/bit-team/backintime) - Simple backup solution. 👏
+- [backup](https://github.com/backup/backup) - Powerful backup tool distributed using RubyGems. 👏
 - [BackupPC](https://github.com/backuppc/backuppc) - High-performance, enterprise-grade system for backing up to a server's disk. 👏
 - [bup](https://github.com/bup/bup) - Efficient backup system, provide fast incremental saves and global deduplication. 👏
-- [Déjà Dup](https://launchpad.net/deja-dup) - Simple backup tool.
+- [Déjà Dup](https://gitlab.gnome.org/World/deja-dup) - Simple backup tool, hides the complexity of backing up the right way and uses duplicity as the backend. 👏
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
 
 ## Browser
 
-- [Brave](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker.
-- [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser for all devices.
-- [Chromium](https://github.com/chromium/chromium) - Open source browser project that aims to build a safer, faster and more stable way for all Internet users. 👏
-- [Firefox](https://www.mozilla.org/en-US/firefox/) - The new, fast browser for Mac, PC and Linux.
-- [Midori](https://www.midori-browser.org/) - Lightweight, fast, and free web browser.
-- [Opera](https://www.opera.com) - Fast, secure, easy-to-use browser.
-- [Tor](https://www.torproject.org/projects/torbrowser.html.en) - Contain everything you need to safely browse the Internet.
-- [Vivaldi](https://vivaldi.com) - The browser that gives you control.
+- [Brave](https://brave.com/) - Secure, fast and private web browser with Adblocker.
+- [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser by Google.
+- [Chromium](https://github.com/chromium/chromium) - Open source, safer, faster and more stable way for all Internet users. 👏
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - Fast, lightweight and powerfully private web browser.
+- [Midori](https://www.midori-browser.org/) - Lightweight, fast and free web browser.
+- [Opera](https://www.opera.com) - Fast, secure, easy-to-use and free VPN.
+- [Tor](https://www.torproject.org/) - Contain everything you need to safely browse the internet.
+- [Vivaldi](https://vivaldi.com) - Powerful, personal and flexible browser.
 - [Yandex](https://browser.yandex.com/) - Fast and secure browser.
 
 ## Chat
 
-- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
-- [Skype](https://www.skype.com) - The most famous instant messaging application for any platform.
-- [Telegram](https://telegram.org) - WhatsApp alternative with a blue theme color and a bot API.
-- [Slack](https://slack.com) - The messaging app almost every startup company in the world uses.
-- [Tox](https://tox.chat/) - Peer to peer instant messaging app with end-to-end encryption and no central server. 👏
-- [Viber](https://www.viber.com) - Offer text, audio, gif, and video services as well as Unity integration.
-- [WICKR](https://wickr.com/) - Famous for its automatic self-destructing message security feature.
-- [Wire](https://wire.com) - The best instant messaging app available for Linux.
+- [Discord](https://discordapp.com/) - Free voice and text chat for gamers.
+- [Skype](https://www.skype.com) - Famous instant messaging application for talking, chatting and collaborating.
+- [Telegram](https://telegram.org) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
+- [Slack](https://slack.com) - Awesome tool for team collaboration and communication.
+- [Tox](https://tox.chat/) - Free, powerful and secure chat.
+- [Viber](https://www.viber.com) - Free and secure calls and messages to anyone, anywhere.
+- [WICKR](https://wickr.com/) - Secure for team collaboration space.
+- [Wire](https://wire.com) - Open source and secure collaboration platform. 👏
 
 ## Cloud Storage
 
-- [Dropbox](https://www.dropbox.com) - One of the best cloud services out there.
-- [Google Drive](https://drive.google.com) - One of the best cloud services for Linux users.
-- [NextCloud](https://nextcloud.com) - Free and open source cloud storage and collaboration platform.
-- [pCloud](https://www.pcloud.com) - European offering from Switzerland.
+- [Dropbox](https://www.dropbox.com) - The best cloud services on Linux.
+- [Google Drive](https://drive.google.com) - Powerful cloud services by Google.
+- [NextCloud](https://nextcloud.com) - Free, open source cloud storage and collaboration platform.
+- [pCloud](https://www.pcloud.com) - Secure online storage from Switzerland.
 
 ## Databases
 
@@ -94,10 +94,10 @@
 - [Android Studio](https://developer.android.com/studio/index.html) - The fastest tools for building apps on every type of Android device.
 - [CLion](https://www.jetbrains.com/clion/) - Cross-platform IDE for C and C++.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool.
-- [Eclipse](https://www.eclipse.org/) - The Platform for Open Innovation and Collaboration.
-- [GoLand](https://www.jetbrains.com/go/) - Clever IDE to Go.
+- [Eclipse](https://www.eclipse.org/) - Free, open source, written by Java and plugin architecture allows Eclipse to be extended in other languages.
+- [GoLand](https://www.jetbrains.com/go/) - Cross-platform IDE built specially for Go developers.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages.
-- [NetBeans](https://netbeans.org/) - Quickly and easily develop desktop, mobile, and web applications with Java and more.
+- [NetBeans](https://netbeans.org/) - Quickly and easily develop desktop, mobile, and web applications with Java.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE for Professional Developers.
 - [Rider](https://www.jetbrains.com/rider/) - Fast and powerful cross-platform .NET IDE.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - The powerful IDE for modern JavaScript development.
@@ -108,41 +108,40 @@
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
 - [Karbon](https://www.calligra.org/karbon/) - Vector drawing application that is easy to use, highly customizable and extensible.
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
-- [MyPaint](https://github.com/mypaint/mypaint) - Simple drawing and painting program. 👏
+- [MyPaint](https://github.com/mypaint/mypaint) - Fast and dead-simple painting app for artists. 👏
 - [Pinta](https://github.com/PintaProject/Pinta) - Free, open source program for drawing and image editing. 👏
 - [Vectr](https://vectr.com/) - Free graphics software used to create vector graphics easily and intuitively.
 
 ## Mail
 
 - [Hiri](https://www.hiri.com/) - Linux email client for Exchange and Office 365.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - The best mail client for Mac, Linux, and Windows. 👏
-- [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. 👏
+- [Mailspring](https://github.com/Foundry376/Mailspring) - Free, open source, beautiful and fast mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
 
 ## Markdown Editors
 
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
-- [Haroopad](https://github.com/rhiokim/haroopad) - The Next Document processor based on Markdown. 👏
-- [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose markdown editor. 👏
-- [Remarkable](https://github.com/jamiemcg/remarkable) - Powerful markdown editor available for Linux. 👏
+- [Haroopad](https://github.com/rhiokim/haroopad) - The next document processor based on Markdown. 👏
+- [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose Markdown editor. 👏
+- [Remarkable](https://github.com/jamiemcg/remarkable) - Open source, lightweight and powerful Markdown editor. 👏
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
-- [Typora](https://typora.io/) - Markdown editor, markdown reader.
+- [Typora](https://typora.io) - Truly minimal Markdown editor featuring seamless live preview.
 
 ## Music
 
 - [Amarok](https://github.com/KDE/amarok) - Powerful music player for Linux with an intuitive interface. 👏
-- [Audacious](https://github.com/jade28/awesome-linux-apps/edit/master/README.md) - Open source media player that’s widely popular among audiophiles. 👏
-- [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform, open source music player that’s a popular choice of Linux-using music enthusiasts. 👏
+- [Audacious](https://audacious-media-player.org/) - Open source audio player that is low resource and has a minimal feature interface. 👏
+- [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform music player and library organizer forked from Amarok 1.4. 👏
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. 👏
 - [Rhythmbox](https://github.com/GNOME/rhythmbox) - Music playing application for GNOME. 👏
 
 ## Notes
 
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown editor for developers on Mac, Windows and Linux. 👏
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Intuitive and stylish note taking tool for developers. 👏
 - [Laverna](https://github.com/Laverna/laverna) - Keep your notes private. 👏
-- [Simplenote](https://github.com/Automattic/simplenote-electron) - Simplenote React app packaged in Electron. 👏
-- [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source, data manager. 👏
-- [Turtl](https://github.com/turtl/desktop) - Secure, collaborative notebook. 👏
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - Light, clean and free. 👏
+- [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source and data manager. 👏
+- [Turtl](https://github.com/turtl/desktop) - Secure and collaborative notebook. 👏
 
 ## Office
 
@@ -154,8 +153,8 @@
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
-- [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix. 👏
-- [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator for Linux. 👏
+- [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
+- [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
 ## Text Editors
@@ -165,22 +164,23 @@
 - [Brackets](https://github.com/adobe/brackets) - Modern, open source text editor that understands web design. 👏
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. 👏
 - [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. 👏
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
-- [Vim](https://github.com/vim/vim) - The ubiquitous text editor. 👏
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source and runs everywhere. 👏
+- [Vim](https://github.com/vim/vim) - Greatly improved version of the good old UNIX editor Vi. 👏
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Version Control
 
 - [Aurees](https://aurees.com/) - Easy, fast and free.
 - [CodeReview](https://github.com/FabriceSalvaire/CodeReview) - Git GUI tool to perform code review. 👏
 - [GitAhead](https://github.com/gitahead/gitahead) - Graphical Git client designed to help you understand and manage your source code history. 👏
-- [Git Cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI. 👏
+- [Git Cola](https://github.com/git-cola/git-cola) - Powerful Git GUI with a slick and intuitive user interface. 👏
 - [Git Extensions](https://github.com/gitextensions/gitextensions) - Standalone UI tool for managing git repositories. 👏
 - [Git Horizon](https://www.cycligent.com/git-tool) - Cross-platform, Actionable, Graphical Git Dashboard.
-- [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Linux.
+- [GitKraken](https://www.gitkraken.com/) - Git client with efficiency, elegance and reliability.
 - [SmartGit](https://www.syntevo.com/smartgit/) - Graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.
-- [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime.
-- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. 👏
+- [Sublime Merge](https://www.sublimemerge.com/) - Powerful Git client from the creators of Sublime Text.
+- [ungit](https://github.com/FredrikNoren/ungit) - Clean and intuitive UI, running on the web. 👏
 
 ## Video
 
@@ -193,10 +193,12 @@
 ## Virtualization
 
 - [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization.
+- [Gnome Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - Easy to view, access, and manage remote and virtual systems. 👏
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
+- [UCS Virtual Machine Manager](https://www.univention.com/products/ucs/functions/virtualization-uvmm/) - Linux VM management tool for Linux, which specializes in working with cloud VMs, clusters, and other enterprise-level virtual systems.
 - [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and distributing development environments. 👏
-- [VirtualBox](https://www.virtualbox.org/) - Powerful, brimming with terrific features and, best of all, it’s free.
-- [VMWare Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+- [Virtual Box](https://www.virtualbox.org/) - Free, feature rich, high performance and maintained by Oracle.
+- [Virtual Machine Manager](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines via libvirt. 👏
 
 **[⬆ back to top](#contents)**
 
