@@ -135,6 +135,7 @@
 - [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform music player and library organizer forked from Amarok 1.4. 👏
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. 👏
 - [Rhythmbox](https://github.com/GNOME/rhythmbox) - Music playing application for GNOME. 👏
+- [Lollypop](https://gitlab.gnome.org/World/lollypop/) - Modern music player for GNOME. 👏
 
 ## Notes
 
