@@ -9,6 +9,7 @@
 - [Browser](#browser)
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
+- [Code Editors](#code-editors)
 - [Databases](#databases)
 - [Game](#game)
 - [IDEs](#ides)
@@ -19,7 +20,6 @@
 - [Notes](#notes)
 - [Office](#office)
 - [Terminal](#terminal)
-- [Text Editors](#text-editors)
 - [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
@@ -72,6 +72,18 @@
 - [NextCloud](https://nextcloud.com) - Free, open source cloud storage and collaboration platform.
 - [pCloud](https://www.pcloud.com) - Secure online storage from Switzerland.
 - [insync](https://www.insynchq.com/) - Google Drive and OneDrive file syncing
+
+## Code Editors
+
+- [Atom](https://github.com/atom/atom) - Hackable text editor for the 21st Century. 👏
+- [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and web developers.
+- [Brackets](https://github.com/adobe/brackets) - Modern, open source text editor that understands web design. 👏
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. 👏
+- [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. 👏
+- [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
+- [Vim](https://github.com/vim/vim) - Greatly improved version of the good old UNIX editor Vi. 👏
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Databases
 
@@ -155,21 +167,10 @@
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
+- [Terminator](https://github.com/gnome-terminator/terminator) - Multiple terminals in one window. 👏
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
-
-## Text Editors
-
-- [Atom](https://github.com/atom/atom) - Hackable text editor for the 21st Century. 👏
-- [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and web developers.
-- [Brackets](https://github.com/adobe/brackets) - Modern, open source text editor that understands web design. 👏
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. 👏
-- [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim. 👏
-- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. 👏
-- [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
-- [Vim](https://github.com/vim/vim) - Greatly improved version of the good old UNIX editor Vi. 👏
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Version Control
 
