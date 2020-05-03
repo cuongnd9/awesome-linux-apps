@@ -29,6 +29,7 @@
 - [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for recording, editing and Mixing. 👏
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform software for recording and editing sounds. 👏
 - [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
+- [LMMS](https://github.com/LMMS/lmms) - Free cross-platform music production software. 👏
 - [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor.
 
 ## Backup
