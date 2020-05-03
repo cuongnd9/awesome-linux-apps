@@ -121,6 +121,7 @@
 ## Image Editors
 
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
+- [GrafX2](http://grafx2.chez.com/) - Bitmap paint program inspired by Deluxe Paint on Amiga.
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
 - [Karbon](https://www.calligra.org/karbon/) - Vector drawing application that is easy to use, highly customizable and extensible.
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
