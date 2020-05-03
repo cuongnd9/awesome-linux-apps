@@ -94,6 +94,7 @@
 
 ## Game
 
+- [GameHub](https://github.com/tkashkin/GameHub) - GameHub allows to view, download, install, run and uninstall games from multiple game sources and services (Steam, GOG, Humble Bundle, Humble Trove, etc). 👏
 - [GOG.com](https://www.gog.com/) - Web platform to donwload games.
 - [Humble](https://www.humblebundle.com/) - Platform to buy games bundles.
 - [itch.io](https://itch.io/games/platform-linux) - Platform to buy games.
