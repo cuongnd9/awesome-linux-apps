@@ -27,7 +27,7 @@
 ## Audio
 
 - [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for recording, editing and Mixing. 👏
-- [Audacious](https://audacious-media-player.org/download) Free, open souce, audio player with low resource use. 👏
+- [Audacious](https://audacious-media-player.org/) Free, open souce, audio player with low resource use. 👏
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform software for recording and editing sounds. 👏
 - [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
 - [LMMS](https://github.com/LMMS/lmms) - Free cross-platform music production software. 👏
