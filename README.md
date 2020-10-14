@@ -27,6 +27,7 @@
 ## Audio
 
 - [Ardour](https://github.com/Ardour/ardour) - Free, open source audio workstation for recording, editing and Mixing. 👏
+- [Audacious](https://audacious-media-player.org/) Free, open souce, audio player with low resource use. 👏
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform software for recording and editing sounds. 👏
 - [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
 - [LMMS](https://github.com/LMMS/lmms) - Free cross-platform music production software. 👏
@@ -42,6 +43,7 @@
 - [Déjà Dup](https://gitlab.gnome.org/World/deja-dup) - Simple backup tool, hides the complexity of backing up the right way and uses duplicity as the backend. 👏
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
+- [Timeshift](http://www.teejeetech.in/p/timeshift.html) - Takes incremental snapshots of the file system at regular intervals. 👏
 
 ## Browser
 
@@ -127,6 +129,7 @@
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
 - [MyPaint](https://github.com/mypaint/mypaint) - Fast and dead-simple painting app for artists. 👏
 - [Pinta](https://github.com/PintaProject/Pinta) - Free, open source program for drawing and image editing. 👏
+- [Shotcut](https://www.shotcut.org/) - Free, open source, cross-platform video editor. 👏
 - [Vectr](https://vectr.com/) - Free graphics software used to create vector graphics easily and intuitively.
 
 ## Mail
