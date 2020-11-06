@@ -146,7 +146,7 @@
 - [Remarkable](https://github.com/jamiemcg/remarkable) - Open source, lightweight and powerful Markdown editor. 👏
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
 - [Typora](https://typora.io) - Truly minimal Markdown editor featuring seamless live preview. 
-- [Marktext](https://marktext.app) - Simple and Elegant Markdown Editor, focused on speed and usability.
+- [Marktext](https://marktext.app) - Simple and Elegant Markdown Editor, focused on speed and usability. 👏
 
 ## Music
 
@@ -180,7 +180,7 @@
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
-- [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based termina
+- [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based termina. 👏
 
 ## Version Control
 
