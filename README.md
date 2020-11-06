@@ -146,6 +146,7 @@
 - [Remarkable](https://github.com/jamiemcg/remarkable) - Open source, lightweight and powerful Markdown editor. 👏
 - [ReText](https://github.com/retext-project/retext) - Simple but powerful editor for Markdown and reStructuredText. 👏
 - [Typora](https://typora.io) - Truly minimal Markdown editor featuring seamless live preview.
+- [Marktext](https://marktext.app) - Simple and Elegant Markdown Editor, focused on speed and usability.
 
 ## Music
 
