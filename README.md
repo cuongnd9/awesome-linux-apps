@@ -59,7 +59,7 @@
 
 ## Chat
 
-- [Discord](https://discordapp.com/) - Free voice and text chat for gamers.
+- [Discord](https://discord.com/) - Free voice and text chat for gamers.
 - [Skype](https://www.skype.com) - Famous instant messaging application for talking, chatting and collaborating.
 - [Telegram](https://telegram.org) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Slack](https://slack.com) - Awesome tool for team collaboration and communication.
