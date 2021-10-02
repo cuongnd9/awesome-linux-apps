@@ -176,12 +176,13 @@
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
+- [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich, cross-platform, GPU based terminal. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
+- [st](https://st.suckless.org/) - Simple terminal implementation for X. 👏
 - [Terminator](https://github.com/gnome-terminator/terminator) - Multiple terminals in one window. 👏
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
-- [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich, cross-platform, GPU based terminal. 👏
-- [st](https://st.suckless.org/) - Simple terminal implementation for X. 👏
+
 
 ## Version Control
 
