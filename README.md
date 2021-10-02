@@ -183,7 +183,6 @@
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 
-
 ## Version Control
 
 - [Aurees](https://aurees.com/) - Easy, fast and free.
