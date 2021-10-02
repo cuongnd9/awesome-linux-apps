@@ -1,4 +1,4 @@
-# Awesome Linux Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Linux Apps
 
 🚀 A list of awesome applications for 🐧 Linux distributions.
 
@@ -216,12 +216,8 @@
 
 **[⬆ back to top](#contents)**
 
-## Contributors
-
-[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/0)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/0)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/1)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/1)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/2)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/2)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/3)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/3)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/4)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/4)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/5)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/5)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/6)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/6)[![](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/images/7)](https://sourcerer.io/fame/103cuong/103cuong/awesome-linux-apps/links/7)
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Cuong Duy Nguyen](https://github.com/103cuong) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Harry Tran](https://github.com/harrytran103) has waived all copyright and related or neighboring rights to this work.
