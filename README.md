@@ -180,8 +180,10 @@
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
 - [st](https://st.suckless.org/) - Simple terminal implementation for X. 👏
 - [Terminator](https://github.com/gnome-terminator/terminator) - Multiple terminals in one window. 👏
+- [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal. 👏
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
+- [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
 ## Version Control
 
