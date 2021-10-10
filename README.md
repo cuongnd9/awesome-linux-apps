@@ -205,6 +205,7 @@
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player. 👏
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
 - [VLC](https://github.com/videolan/vlc) - Free and open source cross-platform multimedia player and framework. 👏
+- [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Free and open source screen recording is easy to do.
 
 ## Virtualization
 
