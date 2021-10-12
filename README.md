@@ -206,6 +206,7 @@
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Free and open source screen recording is easy to do. 👏
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
 - [VLC](https://github.com/videolan/vlc) - Free and open source cross-platform multimedia player and framework. 👏
+- [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming. 👏
 
 ## Virtualization
 
