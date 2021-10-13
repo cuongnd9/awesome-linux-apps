@@ -200,9 +200,9 @@
 
 ## Video
 
-- [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming. 👏
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
+- [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming. 👏
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player. 👏
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Free and open source screen recording is easy to do. 👏
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
