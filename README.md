@@ -93,6 +93,7 @@
 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
+- [Gun](https://github.com/amark/gun) - Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏
 - [Postbird](https://github.com/Paxa/postbird) - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
 - [Robo 3T](https://robomongo.org/) - Free lightweight GUI for MongoDB enthusiasts.
 
