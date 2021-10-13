@@ -90,7 +90,7 @@
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Databases
-
+- [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
 - [Gun](https://github.com/amark/gun) - Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏
