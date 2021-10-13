@@ -171,6 +171,7 @@
 ## Office
 
 - [LibreOffice](https://www.libreoffice.org/) - Best free office suite in the Linux community. 👏
+- [OpenOffice](https://www.openoffice.org/) - The free and open productive suite. 👏
 - [WPS Office](https://www.wps.com/en-US/office/linux/) - Beautiful, faster, lightweight and offers modern slick user interface.
 
 ## Terminal
