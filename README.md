@@ -50,6 +50,7 @@
 - [Brave](https://brave.com/) - Secure, fast and private web browser with Adblocker.
 - [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser by Google.
 - [Chromium](https://github.com/chromium/chromium) - Open source, safer, faster and more stable way for all Internet users. 👏
+- [Edge](https://www.microsoftedgeinsider.com/en-us/download?platform=linux-deb) - Fast and secure browser by Microsoft.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Fast, lightweight and powerfully private web browser.
 - [Midori](https://www.midori-browser.org/) - Lightweight, fast and free web browser.
 - [Opera](https://www.opera.com) - Fast, secure, easy-to-use and free VPN.
