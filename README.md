@@ -124,6 +124,8 @@
 
 ## Image Editors
 
+- [DigiKam](https://www.digikam.org/) - Free & Open-source digital photo management application. 👏
+- [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html) - Free & Open-source photo editing and collection management tool. 👏
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
 - [GrafX2](http://grafx2.chez.com/) - Bitmap paint program inspired by Deluxe Paint on Amiga.
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
@@ -132,6 +134,7 @@
 - [MyPaint](https://github.com/mypaint/mypaint) - Fast and dead-simple painting app for artists. 👏
 - [Pinta](https://github.com/PintaProject/Pinta) - Free, open source program for drawing and image editing. 👏
 - [Shotcut](https://www.shotcut.org/) - Free, open source, cross-platform video editor. 👏
+- [ShowFOTO](https://apps.kde.org/showfoto/) - Free & Lightweight image editor.
 - [Vectr](https://vectr.com/) - Free graphics software used to create vector graphics easily and intuitively.
 
 ## Mail
