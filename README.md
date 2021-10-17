@@ -206,6 +206,7 @@
 
 ## Video
 
+- [Bomi](https://bomi-player.github.io/) - Powerful and Easy-to-use multimedia player.
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player. 👏
