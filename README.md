@@ -73,6 +73,7 @@
 
 - [Dropbox](https://www.dropbox.com) - The best cloud services on Linux.
 - [Google Drive](https://drive.google.com) - Powerful cloud services by Google.
+- [Mega](https://mega.io/start) - Powerful and Secure Coud Storage.
 - [NextCloud](https://nextcloud.com) - Free, open source cloud storage and collaboration platform.
 - [pCloud](https://www.pcloud.com) - Secure online storage from Switzerland.
 - [insync](https://www.insynchq.com/) - Google Drive and OneDrive file syncing
