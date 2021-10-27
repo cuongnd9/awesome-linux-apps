@@ -63,6 +63,7 @@
 ## Chat
 
 - [Discord](https://discord.com/) - Free voice and text chat for gamers.
+- [Microsoft Teams](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software) - Meet, chat, call, and collaborate in just one place.
 - [Pidgin](https://www.pidgin.im/) - A chat program which lets you log into accounts on multiple chat networks simultaneously. 👏
 - [Skype](https://www.skype.com) - Famous instant messaging application for talking, chatting and collaborating.
 - [Telegram](https://telegram.org) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
