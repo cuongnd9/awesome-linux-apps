@@ -186,6 +186,7 @@
 ## Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
+- [Fzf command-line fuzzy finder](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder that makes searching in history way easier. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich, cross-platform, GPU based terminal. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
