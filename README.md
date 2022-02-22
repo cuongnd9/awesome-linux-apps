@@ -223,7 +223,7 @@
 
 ## Virtualization
 
-- [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization.
+- [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. 👏
 - [Gnome Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - Easy to view, access, and manage remote and virtual systems. 👏
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [UCS Virtual Machine Manager](https://www.univention.com/products/ucs/functions/virtualization-uvmm/) - Linux VM management tool for Linux, which specializes in working with cloud VMs, clusters, and other enterprise-level virtual systems.
