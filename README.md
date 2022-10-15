@@ -63,8 +63,10 @@
 ## Chat
 
 - [Discord](https://discord.com/) - Free voice and text chat for gamers.
+- [Keybase](https://keybase.io/) - Secure messaging and file-sharing for team collaboration.
 - [Microsoft Teams](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software) - Meet, chat, call, and collaborate in just one place.
 - [Pidgin](https://www.pidgin.im/) - A chat program which lets you log into accounts on multiple chat networks simultaneously. 👏
+- [Signal](https://signal.org/) - Free communication, audio, video call and secure messaging.
 - [Skype](https://www.skype.com) - Famous instant messaging application for talking, chatting and collaborating.
 - [Telegram](https://telegram.org) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Slack](https://slack.com) - Awesome tool for team collaboration and communication.
@@ -96,6 +98,7 @@
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 
 ## Databases
+
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
