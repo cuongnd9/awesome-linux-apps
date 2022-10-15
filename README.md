@@ -83,6 +83,7 @@
 - [NextCloud](https://nextcloud.com) - Free, open source cloud storage and collaboration platform.
 - [pCloud](https://www.pcloud.com) - Secure online storage from Switzerland.
 - [insync](https://www.insynchq.com/) - Google Drive and OneDrive file syncing
+- [Terrabox](https://www.terabox.com/) - Get free cloud storage 1024GB. 
 
 ## Code Editors
 
@@ -103,7 +104,9 @@
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
 - [Gun](https://github.com/amark/gun) - Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏
+- [Mongodb Compass](https://www.mongodb.com/products/compass) - Nice GUI for MongoDB with dark mode included.
 - [Postbird](https://github.com/Paxa/postbird) - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
+- [Postgres admin](https://www.pgadmin.org/download/) - Free Postgres admin GUI, you can export and import database and rarely fail.
 - [Robo 3T](https://robomongo.org/) - Free lightweight GUI for MongoDB enthusiasts.
 
 ## Game
@@ -227,6 +230,7 @@
 ## Virtualization
 
 - [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. 👏
+- [Docker Machine](https://github.com/docker/machine) - Machine management for a container-centric world. 👏
 - [Gnome Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - Easy to view, access, and manage remote and virtual systems. 👏
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine emulator and virtualizer. 👏
 - [UCS Virtual Machine Manager](https://www.univention.com/products/ucs/functions/virtualization-uvmm/) - Linux VM management tool for Linux, which specializes in working with cloud VMs, clusters, and other enterprise-level virtual systems.
