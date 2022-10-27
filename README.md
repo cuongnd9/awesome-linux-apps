@@ -201,6 +201,7 @@
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal. 👏
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
+- [Tmux](https://github.com/tmux/tmux/) - Tmux is a terminal multiplexer, like screen, but much better. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
 
 ## Version Control
