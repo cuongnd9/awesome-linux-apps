@@ -97,6 +97,7 @@
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 - [Vim](https://github.com/vim/vim) - Greatly improved version of the good old UNIX editor Vi. 👏
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
+- [Zed](https://zed.dev/) - Fast, modern & open source code editor with focus on performance. 👏
 
 ## Databases
 
