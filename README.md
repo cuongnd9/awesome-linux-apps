@@ -59,6 +59,7 @@
 - [Tor](https://www.torproject.org/) - Contain everything you need to safely browse the internet.
 - [Vivaldi](https://vivaldi.com) - Powerful, personal and flexible browser.
 - [Yandex](https://browser.yandex.com/) - Fast and secure browser.
+- [Zen](https://zen-browser.app) - A brand new cross-platform browser with attractive UI, based on Firefox. 👏
 
 ## Chat
 
