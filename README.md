@@ -216,6 +216,7 @@
 
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
+- [Portman](https://github.com/forgebay/portman) - Menu-bar and system-tray app that lists running dev servers with their detected project and framework, and kills any of them in one click. 👏
 
 ## Version Control
 
