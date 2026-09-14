@@ -12,6 +12,7 @@
 - [Code Editors](#code-editors)
 - [Databases](#databases)
 - [Game](#game)
+- [Health](#health)
 - [IDEs](#ides)
 - [Image Editors](#image-editors)
 - [Mail](#mail)
@@ -125,6 +126,10 @@
 - [PlayOnLinux](https://www.playonlinux.com) - Support install Windows app and games on Linux. 👏
 - [Portable Linux Games](https://portablelinuxgames.org/) - Collection of a number of Linux games.
 - [Steam](https://store.steampowered.com/) - Platform to buy games.
+
+## Health
+
+- [UpSit](https://github.com/aykhanstoic/superposture) - Tracks sitting posture from the webcam using an on-device ML model and nudges you when you slouch; nothing is ever uploaded. 👏
 
 ## IDEs
 
