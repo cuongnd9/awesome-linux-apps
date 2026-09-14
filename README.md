@@ -109,6 +109,7 @@
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
 - [Gun](https://github.com/amark/gun) - Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏
 - [Mongodb Compass](https://www.mongodb.com/products/compass) - Nice GUI for MongoDB with dark mode included.
+- [Mongrel](https://www.visorcraft.com/) - Desktop workbench for 30+ database engines, with terminals, SFTP, Docker, and Kubernetes.
 - [Postbird](https://github.com/Paxa/postbird) - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
 - [Postgres admin](https://www.pgadmin.org/download/) - Free Postgres admin GUI, you can export and import database and rarely fail.
 - [Robo 3T](https://robomongo.org/) - Free lightweight GUI for MongoDB enthusiasts.
