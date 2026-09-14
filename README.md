@@ -12,6 +12,7 @@
 - [Code Editors](#code-editors)
 - [Databases](#databases)
 - [Game](#game)
+- [Health](#health)
 - [IDEs](#ides)
 - [Image Editors](#image-editors)
 - [Mail](#mail)
@@ -108,8 +109,10 @@
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
 - [Dbx](https://github.com/t8y2/dbx.git) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. 👏
+- [DBTool](https://github.com/achi777/db-tool) - Free desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle and SQL Server, with a visual query builder and ER diagrams. 👏
 - [Gun](https://github.com/amark/gun) - Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏
 - [Mongodb Compass](https://www.mongodb.com/products/compass) - Nice GUI for MongoDB with dark mode included.
+- [Mongrel](https://www.visorcraft.com/) - Desktop workbench for 30+ database engines, with terminals, SFTP, Docker, and Kubernetes.
 - [Postbird](https://github.com/Paxa/postbird) - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
 - [Postgres admin](https://www.pgadmin.org/download/) - Free Postgres admin GUI, you can export and import database and rarely fail.
 - [Robo 3T](https://robomongo.org/) - Free lightweight GUI for MongoDB enthusiasts.
@@ -124,6 +127,10 @@
 - [PlayOnLinux](https://www.playonlinux.com) - Support install Windows app and games on Linux. 👏
 - [Portable Linux Games](https://portablelinuxgames.org/) - Collection of a number of Linux games.
 - [Steam](https://store.steampowered.com/) - Platform to buy games.
+
+## Health
+
+- [UpSit](https://github.com/aykhanstoic/superposture) - Tracks sitting posture from the webcam using an on-device ML model and nudges you when you slouch; nothing is ever uploaded. 👏
 
 ## IDEs
 
@@ -216,7 +223,9 @@
 ## Utilities
 
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
+- [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that routes browser traffic through your own VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, or WireGuard servers, driven by a local sing-box, Xray, or mihomo core.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
+- [SessionSifu](https://github.com/tpluharik/SessionSifu) - Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏
 
 ## Version Control
 
