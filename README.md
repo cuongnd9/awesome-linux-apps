@@ -7,6 +7,7 @@
 - [Audio](#audio)
 - [Backup](#backup)
 - [Browser](#browser)
+- [Business](#business)
 - [Chat](#chat)
 - [Cloud Storage](#cloud-storage)
 - [Code Editors](#code-editors)
@@ -63,6 +64,10 @@
 - [Vivaldi](https://vivaldi.com) - Powerful, personal and flexible browser.
 - [Yandex](https://browser.yandex.com/) - Fast and secure browser.
 - [Zen](https://zen-browser.app) - A brand new cross-platform browser with attractive UI, based on Firefox. 👏
+
+## Business
+
+- [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants, with [AGPL source](https://github.com/Posnic/POS) and AppImage and Debian packages. 👏
 
 ## Chat
 
